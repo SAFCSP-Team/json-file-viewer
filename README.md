@@ -78,6 +78,5 @@ Error: Invalid JSON file.
 ```
 
 ### Qualification to pass
-- [ ] The code should run successfully.
+- [ ] The code should run successfully for all the test cases.
 - [ ] Write all required functions for reading, validating, and extracting keys and values correctly.
-
