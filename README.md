@@ -1,14 +1,14 @@
 # JSON File Viewer
 
-### Objective
+## Objective
 This project aims to test your knowledge of data structures and algorithms and use it to solve real-life problems.
 
-### Problem
+## Problem
 A software development company needs a tool to help visualize the structure of JSON files. This project requires checking and showing a JSON file, and then displaying two separate views:
 - All unique keys found in the file,
 - All values are found in the file.
 
-### Features
+## Features
 
 - Read a JSON file.
 - Validate that the file contains valid JSON.
@@ -17,7 +17,7 @@ A software development company needs a tool to help visualize the structure of J
   - All values found in the JSON.
 - If the file is invalid or the structure is not as expected, display a clear error message.
 
-### Implementation
+## Implementation
 
 * Implement a function named `readFile` that reads the file and parses it as JSON.
 * Implement a function named `extractKeys` that recursively traverses the JSON and returns a list of all unique keys.
@@ -27,7 +27,7 @@ A software development company needs a tool to help visualize the structure of J
   - One for values.
 * Show an error message if the file cannot be parsed or is not valid JSON.
 
-### Test Case
+## Test Case
 
 1.
 ```json
@@ -77,6 +77,6 @@ Output
 Error: Invalid JSON file.
 ```
 
-### Qualification to pass
+## Qualification to pass
 - [ ] The code should run successfully for all the test cases.
 - [ ] Write all required functions for reading, validating, and extracting keys and values correctly.
