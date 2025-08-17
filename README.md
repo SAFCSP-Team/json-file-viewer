@@ -13,8 +13,8 @@ A software development company needs a tool to help visualize the structure of J
 - Read a JSON file.
 - Validate that the file contains valid JSON.
 - Extract and display:
-  - All unique keys found in the JSON.
-  - All values found in the JSON.
+  - All unique keys found in the JSON file.
+  - All values found in the JSON file.
 - If the file is invalid or the structure is not as expected, display a clear error message.
 
 ## Implementation
